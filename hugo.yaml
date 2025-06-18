@@ -1,0 +1,16 @@
+theme: gokarna
+defaultContentLanguage: de
+defaultContentLanguageIsInSubdir: true
+languages:
+  de:
+    baseURL: https://lerneschwimmen.de
+    contentDir: content/de
+    languageName: Deutsch
+    title: Lerne Schwimmen - In jeden Alter!
+    weight: 1
+  en:
+    baseURL: https://learntoswim.com
+    contentDir: content/en
+    languageName: English
+    title: Learn to swim - at any age!
+    weight: 2
