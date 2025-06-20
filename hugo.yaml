@@ -3,13 +3,13 @@ defaultContentLanguage: de
 defaultContentLanguageIsInSubdir: true
 languages:
   de:
-    baseURL: https://lerneschwimmen.de
+    baseURL: https://lerneschwimmen.pixelgerecht.de
     contentDir: content/de
     languageName: Deutsch
     title: Lerne Schwimmen - In jeden Alter!
     weight: 1
   en:
-    baseURL: https://learntoswim.com
+    baseURL: https://learntoswim.pixelgerecht.de
     contentDir: content/en
     languageName: English
     title: Learn to swim - at any age!
