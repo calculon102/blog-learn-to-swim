@@ -5,13 +5,48 @@ languages:
   de:
     baseURL: https://lerneschwimmen.pixelgerecht.de
     contentDir: content/de
+    languageCode: de-DE
     languageName: Deutsch
+    
+    menus:
+      main:
+        - name: Start
+          pre: "<span data-feather='home'></span>"
+          url: "/"
+          weight: 1
+        - name: Beiträge
+          pre: "<span data-feather='book'></span>"
+          url: "/posts"
+          weight: 2
+        - name: Über
+          pre: "<span data-feather='info'></span>"
+          url: "/about"
+          weight: 3
+
     title: Lerne Schwimmen - In jeden Alter!
     weight: 1
+
   en:
     baseURL: https://learntoswim.pixelgerecht.de
     contentDir: content/en
+    languageCode: en-US
     languageName: English
+    
+    menus:
+      main:
+        - name: Start
+          pre: "<span data-feather='home'></span>"
+          url: "/"
+          weight: 1
+        - name: Posts
+          pre: "<span data-feather='book'></span>"
+          url: "/posts"
+          weight: 2
+        - name: About
+          pre: "<span data-feather='info'></span>"
+          url: "/about"
+          weight: 3
+
     title: Learn to swim - at any age!
     weight: 2
 
@@ -33,21 +68,6 @@ params:
     Hier kommen die Links zum Impressum und Datenschutzerklärung
 
 # TODO English
-menu:
-  main:
-    - name: Start
-      pre: "<span data-feather='home'></span"
-      url: "/"
-      weight: 1
-    - name: Beiträge
-      pre: "<span data-feather='book'></span"
-      url: "/posts"
-      weight: 2
-    - name: Über
-      pre: "<span data-feather='info'></span"
-      url: "/about"
-      weight: 3
-
 markup:
   tableOfContents:
     startLevel: 1
