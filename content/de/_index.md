@@ -2,7 +2,7 @@
 
 Hier kommt meine Einleitung rein.
 
-Lorem Ipsum
+## Lorem Ipsum
 
 Mit 41 Jahren habe ich Schwimmen gelernt.
 Mit 42 habe ich das Schwimmabzeichen Gold erworben.

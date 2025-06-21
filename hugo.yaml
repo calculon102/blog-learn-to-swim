@@ -23,7 +23,15 @@ languages:
           url: "/about"
           weight: 3
 
-    title: Lerne Schwimmen - In jeden Alter!
+    params:
+      description: Wie ich es als Erwachsener geschafft habe
+      metaKeywords: ["schwimmen", "lernen", "nichtschwimmer", "erwachsener"]
+        
+      customFooterHTML: >
+        <a href="/imprint">Impressum</a> | 
+        <a href="/privacy">Datenschutz</a>
+
+    title: Schwimmen gelernt
     weight: 1
 
   en:
@@ -47,27 +55,25 @@ languages:
           url: "/about"
           weight: 3
 
-    title: Learn to swim - at any age!
+    params:
+      description: How I have have done it as an adult
+      metaKeywords: ["swim", "swimming", "learn", "adult"]
+        
+      customFooterHTML: >
+        <a href="/imprint">Imprint</a> | 
+        <a href="/privacy">Privacy</a>
+
+    title: Learned to swim
     weight: 2
 
 params:
   avatarAltText: avatar
   avatarSize: size-m
   avatarURL: /images/avatar-pool.png
-#   description: >
-#     Mit 41 Jahren habe ich Schwimmen gelernt.
-#     Mit 42 habe ich das Schwimmabzeichen Gold erworben.
-#     Hier beschreibe ich meine Erfahrungen, damit Du daraus lernen kannst.
 
   footer: Frank Großgasteiger
-  # TODO More keywords and multilingual
-  metaKeywords: ["schwimmen", "lernen", "nichtschwimmer", "erwachsener"]
   showBackToTopButton: true
 
-  customFooterHTML: >
-    Hier kommen die Links zum Impressum und Datenschutzerklärung
-
-# TODO English
 markup:
   tableOfContents:
     startLevel: 1
