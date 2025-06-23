@@ -9,9 +9,23 @@ title: "Drei Denkfehler Von Nichtschwimmern"
 type: "post"
 ---
 
-Als Nichtschwimmer hatte ich die verrücktesten Ideen im Kopf, wie es sein muss
-sich im  tiefen Wasser zu bewegen. Daraus ergab sich wiederum Angst. Hier räume ich mit
-den drei Denkfehlern auf, die es mir besonders schwer gemacht haben.
+Falls Du Nichtschwimmer bist, was glaubst Du passiert mit Dir und Deinem
+Körper, wenn im tiefen Wasser bist? Genauer gefragt, was macht Dir Anst oder
+bereitet Dir Sorgen? Klar, Du glaubst zu ertrinken - aber warum genau?
+
+Glaubst Du auf den Boden zu sinken? Oder wir tief genau? Meinst Du sofort
+voller Wasser zu laufen? Oder viel und korrekt strampeln zu müssen, in einem
+permanenten Kampf ums Überleben?
+
+Selbst hatte ich keine genauen Vorstellungen, nur eine diffuse Angst. Die mich
+wiederum davon abgehalten hat, mich überhaupt mit der Frage zu beschäftigen.
+Kinder sind da unbefangen und probieren aus, Erwachsene möchten und müssen aber
+verstehen.
+
+Und mir hat geholfen zu verstehen, wie Wasser und der mescnhliche Körper sich im
+Wasser verhält. Also ganz rational meine diffusen Ängste angehen und rational
+begegnen. In diesem Artikel möchte ich Dir drei Fehleinschötzungen behandeln,
+deren Uberwindung mir sehr geholfen hat.
 
 ## 1. Ich sinke!
 
@@ -20,11 +34,19 @@ wenn man sich nicht stark bewegt. Dabei hat der menschliche Körper grundsätzli
 Aufrieb - er ist leichter als Wasser. Vor allem wegen der Luft in der Lunge und
 dem hohen Wasseranteil im Körper.
 
-So lange Du auch noch etwas Luft in Die drin hast, wirst Du oben bleiben. Du
-schwimmst - besser gleitest - von ganz alleine. Deshalb ist einer der ersten
-und wichtigsten Übungen in der Wassergehwöhner der Seestern: Lege Dich flach 
-auf den Rücken ins Wasser und lasse Dich treiben. Erwachsene müssen vielleicht
-noch leicht mit den schweren Beinen paddeln.
+So lange Du auch noch etwas Luft in Dir drin hast, wirst Du an der Wasseroberflåche bleiben.
+Dein Körper schwimmt - besser gleitest - von ganz alleine. Deshalb ist einer der ersten
+und wichtigsten Übungen in der Wassergehwöhnung der "Seestern": Lege Dich dafür flach 
+auf den Rücken ins Wasser. Lass Dich treiben, Kopf ins Wasser, bis Deiner Ohren
+bedeckt sind und Du an die Decke schaust. Arme zur Seite gestreckt. Beine ebefalls
+lang in beide Richtungen und Du scwebst!
+
+Weil die Beine mir ihren Muskeln die schwersten bzw. dichtesten Körperteile sind
+müssen viele Menschen noch ganz leicht mir Ihren Füßen paddeln, damit diese
+oben bleiben. Das ist aber nicht zwingen. Auch wenn Dein Unterköoper absinkt,
+wirst Du immer in einer Position bleiben, dass Dein Gesicht aus dem Wasser
+blickt, so lange in Deiner Lunge noch etwas Luft verblieben ist. Und keine
+Bange, Du kannst, darfst und solltest trotzdem ruhig weiteratmen!
 
 Das ist auch die Position, die man bei Erschöpfung oder Problemen einnehmen
 soll, um sich retten zu lassen. In dieser Position kannst Du im Notfall Stunden
