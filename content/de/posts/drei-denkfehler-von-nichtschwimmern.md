@@ -10,7 +10,7 @@ type: "post"
 ---
 
 Als Nichtschwimmer hatte ich die verrücktesten Ideen im Kopf, wie es sein muss
-im tiefen Wasser zu sein. Daraus ergab sich wiederum Angst. Hier räume ich mit
+sich im  tiefen Wasser zu bewegen. Daraus ergab sich wiederum Angst. Hier räume ich mit
 den drei Denkfehlern auf, die es mir besonders schwer gemacht haben.
 
 ## 1. Ich sinke!
@@ -89,6 +89,22 @@ hilft: Effiziente Bewegungen und Pausen. Gute Schwimmer bewegen sich ruhig,
 nutzen Auftrieb, Gleitphasen und gezielte Bewegungen. Schwimmen kann sogar sehr
 entspannend sein – aber erst, wenn man sich im Wasser sicher fühlt.
 
+Erschwert wird diese Herangehensweise durch viele Quellen und Videos, in denen
+es darum geht schnell zu Schwimmen. Das eigentliche Ziel ist jedoch mit möglichst
+wenig Widerstand durch das Wasser zu gleiten. Die Grundlage dafür ist die
+Stromlinienform: Lang gestreckt im Wasser liegen. Jede weitere Schwimmart und
+Position ist eine Ableitung davon.
+
+Diese Entdeckung war ein weiterer Meilenstein in meinem Verständnis vom Schwimmen.
+So habe ich die für mich schönste Schwimmart entdeckt. Das Brustschwimmen mit
+dem Kopf im Wasser. Bei dieser Art ist die Ausgangslage tatsächlich der im Wasser
+gestreckte Körper. Die Arm- und Beinbewegungen sollen möglichst kurz und wenig
+ausladend sein. Der Hauptteil des Schwimmen liegt dabei beim Gleiten.
+
+Mit dieser Form konnte ich locker den Teil des Dauerschwimmens meiner Gold-Prüfung
+meistern: 800 Meter in maximal dreißig Minuten zu Schwimmen. Das ist so wie
+der langsame Dauerlauf beim Joggen. So kann man praktisch ewig Schwimmen, ohne
+außer Puste zu kommen.
 
 ## Fazit
 
