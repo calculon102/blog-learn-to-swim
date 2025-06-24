@@ -23,7 +23,7 @@ verstehen.
 
 Und mir hat geholfen zu verstehen, wie Wasser und der mescnhliche Körper sich im
 Wasser verhält. Also ganz rational meine diffusen Ängste angehen und rational
-begegnen. In diesem Artikel möchte ich Dir drei Fehleinschötzungen behandeln,
+begegnen. In diesem Artikel möchte ich Dir drei Fehleinschätzungen behandeln,
 deren Uberwindung mir sehr geholfen hat.
 
 ## 1. Ich sinke!
@@ -55,6 +55,18 @@ Du kannst Dich ebenfalls flach auf den Bauch legen und gleiten. Nur Deinen Kopf
 musst Du ab und an zum einatem anheben. Der wichtigste Aspekt ist hier das
 Vertrauen ins Wasser und die Erfahrung, dass dir praktisch nichst passieren
 kann. Für den Aufbau des Vertrauens hilft wiederum nur eines: Üben und Trauen.
+
+Experimentiere das ohne Scheu dort im Wasser, wo Du noch stehen kannst. Halte
+Dich mit einer Hand am Beckenrand fest und lege Dich hin. Gerade für Nichtschwimmer
+mit wenig Vertrauen ins Wasser, ist das eine erste - aber wichtige - Mutprobe,
+die mir selbst sehr geholfen hat.
+
+Letztlich ist es reine Physik und Du musst Dein Gehirn durch Training davon
+überzeugen den Naturgesetzen mehr zu vertrauen, als Deinen Urängsten.
+
+Menschen mit hohem Köperfettanteil haben es übrigens leichter. Fett hat eine
+geringere Dichte als Muskeln, so dass "Schwimmringe" keine Schwäche sind,
+sondern ein Vorteil.
 
 
 ## 2. Kopf im Wasser bringt Wasser in die Nase
@@ -96,6 +108,14 @@ ist es das Gesicht fürs Wasser zu desensibilieren. Anders gesagt: das Gesicht i
 legen, keine Panik bei Spritzwassser zu bekommen. Mal ins Wasser zu springen und
 dabei den Kopf unter Wasser zu haben. Nichts davon muss man lieben lernen oder
 gerne tun. Es soll nur keine Panik entstehen.
+
+Auch hier hilft ein Verständnis von Physik. Wenn Du ein leeres Glass kopfüber
+ins Wasser drückst, wird kein Wasser eindringen. Die Luft bleibt drin.
+Probier das gerne mal zuhause in einem Spülbecken oder der Badewanne aus.
+
+Genauso funktioniert auch Deine Nase. Ist Luft drin, kommt kein Wasser rein,
+solange Du Dich nicht kopfüber im Wasser bewegst. Dann hilft eins: Langsam
+ausatmen.
 
 
 ## 3. Viel strampeln hilft viel
