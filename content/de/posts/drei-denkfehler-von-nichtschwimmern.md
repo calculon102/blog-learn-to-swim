@@ -1,13 +1,18 @@
 ---
 date: 2025-06-21T21:41:49+02:00
-# description: ""
-# image: ""
+description: "Bewältige diese als Meilensteine auf Deinem Weg vom Nichtschwimmer zum Schwimmer."
+image: "/images/swimming/feet-in-front-of-pool.avif"
 lastmod: 2025-06-21
 showTableOfContents: false
-tags: ["nichtschwimmer", "denkfehler"]
+tags: ["nichtschwimmer", "denkfehler", "grundlagen"]
 title: "Drei Denkfehler Von Nichtschwimmern"
 type: "post"
 ---
+
+{{< figure
+    src="/images/swimming/feet-in-front-of-pool.avif" 
+    alt="Füße vorm Schwimmbecken"
+>}}
 
 Was glaubst Du, passiert mit Deinem Körper, wenn Du plötzlich im tiefen Wasser bist?
 Was genau macht Dir Angst? Glaubst du zu ertrinken? Wenn ja, warum?
@@ -27,6 +32,11 @@ begegnen. In diesem Artikel möchte ich Dir drei Fehleinschätzungen behandeln,
 deren Uberwindung mir sehr geholfen hat.
 
 ## 1. Ich sinke!
+
+{{< figure
+    src="/images/swimming/floating-man.avif" 
+    alt="Im Wasser gleiten"
+>}}
 
 Ein verbreitetes Missverständnis ist, dass man im Wasser automatisch untergeht,
 wenn man sich nicht stark bewegt. Dabei hat der menschliche Körper grundsätzlich
@@ -70,6 +80,11 @@ sondern ein Vorteil.
 
 
 ## 2. Kopf im Wasser bringt Wasser in die Nase
+
+{{< figure
+    src="/images/swimming/half-head-in-water.avif" 
+    alt="Halber Kopf im Wasser"
+>}}
 
 Niemand mag Wasser in der Nase. Vermutlich hast Du auch - wie viele andere -
 schlechte Kindheitserinnerungen daran. Viell,eicht warst Du als Kind im
@@ -120,6 +135,11 @@ ausatmen.
 
 ## 3. Viel strampeln hilft viel
 
+{{< figure
+    src="/images/swimming/front-float.avif" 
+    alt="Streckbewegung beim Schwimmen"
+>}}
+
 Einige Wochen nach Beginn meines Schwimmkurses stand ich am Rand eines großen
 25-Meter Schwimmerbeckens. Selbst war ich noch nicht in der Lage im tiefen
 Wasser zu bestehen. So beobachtete ich die anderen Schwimmer im Wasser und
@@ -147,9 +167,32 @@ meistern: 800 Meter in maximal dreißig Minuten zu Schwimmen. Das ist so wie
 der langsame Dauerlauf beim Joggen. So kann man praktisch ewig Schwimmen, ohne
 außer Puste zu kommen.
 
+Warum ist das so? Gleiten ist wie das Ausrollen beim Fahrradfahren - du hast
+einmal Schwung geholt, und der trägt dich weiter. Eine fortgeschrittene Übung
+dazu ist, mit möglichst wenig Zügen eine Bahn zu schaffen. Wenn Du das hier
+liest und schon etwas schwimmen kannst, mache das im Nichtschwimmerbecken.
+Versuche die Gleitphasen so lange wie möglich zu halten - habe dabei keine
+Angst mit dem Mund oder dem ganzen Kopf im Wasser zu liegen.
+
+Der Schlüssel ist Ruhe. Jeder hektische Schlag bringt Unruhe, jede ruhige
+Bewegung bringt Vertrauen. Vertrauen kommt durch Wiederholung und einfachem
+Üben. Du musst Dich der Situation kontrolliert aussetzen. Also planst Du am
+besten direkt Deinen nächsten Schwimmbadbesuch, sobal Du diesen Artikel zu Ende
+gelesen hast!
+
 ## Fazit
 
 Viele Ängste beim Schwimmen entstehen durch falsche Vorstellungen – über das
 Wasser und über den eigenen Körper. Wer diese Missverständnisse erkennt und
 Vertrauen aufbaut, merkt schnell: Wasser trägt. Und Schwimmen kann jeder lernen
 – in jedem Alter.
+
+## Jetzt bis Du dran
+
+Du musst kein Kind sein, um Schwimmen zu lernen – und kein Sportass, um Dich
+sicher im Wasser zu fühlen. Es braucht nur einen ersten Schritt: Neugier. Und ein bisschen Mut.
+
+Vielleicht ist heute der Tag, an dem Du Dir vornimmst, es auszuprobieren.
+Mach den Selbsttest in der Badewanne. Oder schau nach einem Schwimmkurs für Erwachsene in Deiner Nähe.
+
+Denn eines ist sicher: Wasser trägt – und Du kannst das auch erleben.
